@@ -16,16 +16,16 @@ Para quem preferir ou precisar programar pelo celular, também será possível u
 
 # 📘 Aula 1
 
-##🗒️ Instruções:
+## 🗒️ Instruções:
 
 Utilize o site:
 
 [Para escrever os códigos de forma mais simples](https://onecompiler.com)
 [Para fazer a tarefa, ou então, se for preferível](https://www.jdoodle.com/execute-lua-online)
 
-[##🎥 Vídeo]()
+## [🎥 Vídeo]()
 
-##🎯 Tarefa:
+## 🎯 Tarefa:
 
 Nesta tarefa, você irá criar um programa simples em Lua que funcione como uma calculadora no terminal.
 
@@ -55,9 +55,9 @@ Instale o Love2D em seu dispositivo:
 
 Caso esteja em um celular, no explorador de arquivos, basta compactar todos os arquivos do projeto, e renomear o .zip para .love, e então abra com Love2D.
 
-[##🎥 Vídeo]()
+## [🎥 Vídeo]()
 
-##🎯 Tarefa:
+## 🎯 Tarefa:
 
 Nesta tarefa, você irá adicionar um sistema de pontos, fazer com que os alvos sejam clickáveis e remover-los.
 
@@ -75,7 +75,7 @@ Nesta tarefa, você irá adicionar um sistema de pontos, fazer com que os alvos 
 
 # 📘 Aula 3
 
-##🗒️ Instruções:
+## 🗒️ Instruções:
 
 Instale o [Roblox](https://roblox.com), e crie uma conta. Depois:
 
@@ -85,9 +85,9 @@ Instale o [Roblox Studios](https://create.roblox.com)
 **Para Celular:**
 Utilize o jogo [Roblox Studios Lite](https://www.roblox.com/pt/games/10959918411/Studio-Lite)
 
-[##🎥 Vídeo]()
+## [🎥 Vídeo]()
 
-##🎯 Tarefa:
+## 🎯 Tarefa:
 
 Nesta tarefa, você irá adicionar um spawner para o inimigo, fazer com que ele aumente de velocidade ao decorrer do tempo, e adicionar uma parede que destrua o inimigo ou derrote o jogador ao ser tocada.
 
@@ -100,3 +100,4 @@ Nesta tarefa, você irá adicionar um spawner para o inimigo, fazer com que ele 
 *Criar uma parede que não tenha física*
 
 *Fazer com que o inimigo/jogador seja derrotado ao tocar*
+
