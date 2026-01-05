@@ -41,7 +41,7 @@ Nesta tarefa, você irá criar um programa simples em Lua que funcione como uma 
 
 # 📘 Aula 2
 
-##🗒️ Instruções:
+## 🗒️ Instruções:
 
 Instale o Love2D em seu dispositivo:
 
@@ -100,4 +100,3 @@ Nesta tarefa, você irá adicionar um spawner para o inimigo, fazer com que ele 
 *Criar uma parede que não tenha física*
 
 *Fazer com que o inimigo/jogador seja derrotado ao tocar*
-
