@@ -89,7 +89,7 @@ Utilize o jogo [Roblox Studios Lite](https://www.roblox.com/pt/games/10959918411
 
 ## 🎯 Tarefa:
 
-Nesta tarefa, você irá adicionar um spawner para o inimigo, fazer com que ele aumente de velocidade ao decorrer do tempo, e adicionar uma parede que destrua o inimigo ou derrote o jogador ao ser tocada.
+Nesta tarefa, você irá adicionar um spawner para o inimigo, fazer com que ele aumente de velocidade ao decorrer do tempo, e adicionar uma parede que destrua o inimigo ou derrote o jogador quando tocada.
 
 **Será necessário:**
 
@@ -100,3 +100,5 @@ Nesta tarefa, você irá adicionar um spawner para o inimigo, fazer com que ele 
 *Criar uma parede que não tenha física*
 
 *Fazer com que o inimigo/jogador seja derrotado ao tocar*
+
+**Nota:** Para tocar com a parede, utilize workspace:GetPartsInPart(parede) e faça o inimigo ter CanCollide como ativo.
