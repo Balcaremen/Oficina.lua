@@ -23,7 +23,7 @@ Utilize o site:
 [Para escrever os códigos de forma mais simples](https://onecompiler.com)
 [Para fazer a tarefa, ou então, se for preferível](https://www.jdoodle.com/execute-lua-online)
 
-## [🎥 Vídeo]()
+## [🎥 Vídeo](https://youtu.be/rpuOhMwATZQ)
 
 ## 🎯 Tarefa:
 
@@ -55,7 +55,7 @@ Instale o Love2D em seu dispositivo:
 
 Caso esteja em um celular, no explorador de arquivos, basta compactar todos os arquivos do projeto, e renomear o .zip para .love, e então abra com Love2D.
 
-## [🎥 Vídeo]()
+## [🎥 Vídeo](https://youtu.be/T-BA3hcF49Q)
 
 ## 🎯 Tarefa:
 
@@ -85,7 +85,7 @@ Instale o [Roblox Studios](https://create.roblox.com)
 **Para Celular:**
 Utilize o jogo [Roblox Studios Lite](https://www.roblox.com/pt/games/10959918411/Studio-Lite)
 
-## [🎥 Vídeo]()
+## [🎥 Vídeo](https://youtu.be/FX2UC26dmRc)
 
 ## 🎯 Tarefa:
 
@@ -102,3 +102,4 @@ Nesta tarefa, você irá adicionar um spawner para o inimigo, fazer com que ele 
 *Fazer com que o inimigo/jogador seja derrotado ao tocar*
 
 **Nota:** Para tocar com a parede, utilize workspace:GetPartsInPart(parede) e faça o inimigo ter CanCollide como ativo.
+
