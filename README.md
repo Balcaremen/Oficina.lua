@@ -23,7 +23,7 @@ Utilize o site:
 [Para escrever os códigos de forma mais simples](https://onecompiler.com)
 [Para fazer a tarefa, ou então, se for preferível](https://www.jdoodle.com/execute-lua-online)
 
-## [🎥 Vídeo](https://youtu.be/rpuOhMwATZQ)
+## [🎥 Vídeo](https://youtu.be/L7zxpm6v4Qw)
 
 ## 🎯 Tarefa:
 
@@ -102,4 +102,5 @@ Nesta tarefa, você irá adicionar um spawner para o inimigo, fazer com que ele 
 *Fazer com que o inimigo/jogador seja derrotado ao tocar*
 
 **Nota:** Para tocar com a parede, utilize workspace:GetPartsInPart(parede) e faça o inimigo ter CanCollide como ativo.
+
 
